@@ -1,4 +1,7 @@
-/.idea
-**/*.iml
-**/target
-**/build
+.idea/
+target/
+build/
+*.iml
+*.jar
+*.MF
+*.class
