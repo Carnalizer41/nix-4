@@ -6,5 +6,6 @@ public interface ConsoleHelperService {
     int readIntegerFromConsole();
     void printMessage(String message);
     char readCharFromConsole();
+    double readDoubleFromConsole();
 
 }

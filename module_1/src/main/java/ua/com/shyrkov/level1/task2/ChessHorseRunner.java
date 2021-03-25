@@ -9,8 +9,9 @@ public class ChessHorseRunner {
     private static ConsoleHelperService consoleHelper = ConsoleHelperFactory.getInstance().getHelperService();
 
     public static void run() {
-        consoleHelper.printMessage("Enter X and Y positions of horse figure:");
+        consoleHelper.printMessage("Enter X position of the horse figure:");
         int posX = consoleHelper.readIntegerFromConsole();
+        consoleHelper.printMessage("Enter Y position of the horse figure:");
         int posY = consoleHelper.readIntegerFromConsole();
         Horse horse = new Horse(posX, posY);
         consoleHelper.printMessage("Enter X and Y positions of point you want to move:");

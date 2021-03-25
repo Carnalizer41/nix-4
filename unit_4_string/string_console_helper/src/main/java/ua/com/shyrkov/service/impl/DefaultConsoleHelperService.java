@@ -49,4 +49,14 @@ public class DefaultConsoleHelperService implements ConsoleHelperService {
             throw new RuntimeException(e.getMessage());
         }
     }
+
+    @Override
+    public double readDoubleFromConsole() {
+        try {
+            return Double.parseDouble(reader.readLine());
+        } catch (IOException e) {
+            e.printStackTrace();
+            throw new RuntimeException(e.getMessage());
+        }
+    }
 }
