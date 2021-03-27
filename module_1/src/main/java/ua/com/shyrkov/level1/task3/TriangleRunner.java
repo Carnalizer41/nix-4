@@ -12,6 +12,7 @@ public class TriangleRunner {
     private static final DecimalFormat f = new DecimalFormat("##.00");
 
     public static void run(){
+        consoleHelper.printMessage("------LEVEL 1 - TASK 3------");
         consoleHelper.printMessage("Enter A side of the triangle:");
         double sideA = consoleHelper.readDoubleFromConsole();
         consoleHelper.printMessage("Enter B side of the triangle:");

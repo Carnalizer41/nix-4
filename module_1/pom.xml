@@ -8,7 +8,6 @@
     <artifactId>module_1</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <packaging>pom</packaging>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
@@ -18,7 +17,7 @@
     <dependencies>
         <dependency>
             <groupId>ua.com.shyrkov</groupId>
-            <artifactId>string_console_helper</artifactId>
+            <artifactId>console_helper</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <dependency>

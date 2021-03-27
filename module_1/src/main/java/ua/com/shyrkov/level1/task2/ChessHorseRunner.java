@@ -9,6 +9,7 @@ public class ChessHorseRunner {
     private static ConsoleHelperService consoleHelper = ConsoleHelperFactory.getInstance().getHelperService();
 
     public static void run() {
+        consoleHelper.printMessage("------LEVEL 1 - TASK 2------");
         consoleHelper.printMessage("Enter X position of the horse figure:");
         int posX = consoleHelper.readIntegerFromConsole();
         consoleHelper.printMessage("Enter Y position of the horse figure:");

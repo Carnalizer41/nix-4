@@ -8,10 +8,10 @@ import ua.com.shyrkov.level3.LifeRunner;
 
 public class App {
     public static void main(String[] args) {
-//        CounterRunner.run();
-//        ChessHorseRunner.run();
-//        TriangleRunner.run();
-//        BracketsRunner.run();
+        CounterRunner.run();
+        ChessHorseRunner.run();
+        TriangleRunner.run();
+        BracketsRunner.run();
         LifeRunner.run();
     }
 }

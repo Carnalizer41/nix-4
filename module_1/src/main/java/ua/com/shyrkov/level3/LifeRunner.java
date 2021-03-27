@@ -9,6 +9,7 @@ public class LifeRunner {
     private static final ConsoleHelperService consoleHelper = ConsoleHelperFactory.getInstance().getHelperService();
 
     public static void run(){
+        consoleHelper.printMessage("------LEVEL 3 - TASK 1------");
         consoleHelper.printMessage("Life Game was started!");
         consoleHelper.printMessage("Please enter number of columns of the game board:");
         int columns = consoleHelper.readIntegerFromConsole();

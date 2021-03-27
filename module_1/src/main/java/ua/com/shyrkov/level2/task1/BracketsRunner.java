@@ -10,6 +10,7 @@ public class BracketsRunner {
     private static final ConsoleHelperService consoleHelper = ConsoleHelperFactory.getInstance().getHelperService();
 
     public static void run() {
+        consoleHelper.printMessage("------LEVEL 2 - TASK 1------");
         Brackets[] brackets = {new Brackets('(', ')')
                 , new Brackets('{', '}')
                 , new Brackets('[', ']')};

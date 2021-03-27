@@ -9,6 +9,7 @@ public class CounterRunner {
     private static ConsoleHelperService consoleHelper = ConsoleHelperFactory.getInstance().getHelperService();
 
     public static void run(){
+        consoleHelper.printMessage("------LEVEL 1 - TASK 1------");
         consoleHelper.printMessage("Enter numbers to count unique:");
         String[] split = consoleHelper.readStringFromConsole().split("\\s+");
         int[] numbers = new int[split.length];
