@@ -11,7 +11,7 @@ public class DefaultConsoleHelperService implements ConsoleHelperService {
 
     private final BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
-    @Override
+
     public String readStringFromConsole() {
         try {
             return reader.readLine();
@@ -21,7 +21,7 @@ public class DefaultConsoleHelperService implements ConsoleHelperService {
         }
     }
 
-    @Override
+
     public int readIntegerFromConsole() {
         try {
             return Integer.parseInt(reader.readLine());
@@ -31,12 +31,12 @@ public class DefaultConsoleHelperService implements ConsoleHelperService {
         }
     }
 
-    @Override
+
     public void printMessage(String message) {
         System.out.println(message);
     }
 
-    @Override
+
     public char readCharFromConsole() {
         try {
             String line = reader.readLine();
@@ -50,7 +50,7 @@ public class DefaultConsoleHelperService implements ConsoleHelperService {
         }
     }
 
-    @Override
+
     public double readDoubleFromConsole() {
         try {
             return Double.parseDouble(reader.readLine());

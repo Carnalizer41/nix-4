@@ -1447,3 +1447,136 @@
 2021-04-04 00:38:32 INFO  BookServiceImpl:69 - Deleting book with id=1
 2021-04-04 00:38:32 INFO  BookServiceImpl:72 - Book was successfully deleted
 2021-04-04 00:38:32 INFO  BookServiceImpl:50 - Finding all books
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:32 - Creating author Firstname0 Lastname0 id=0
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:34 - Successfully created new author
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:32 - Creating author Firstname1 Lastname1 id=0
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:34 - Successfully created new author
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:32 - Creating author Firstname2 Lastname2 id=0
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:34 - Successfully created new author
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:32 - Creating author Firstname3 Lastname3 id=0
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:34 - Successfully created new author
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:32 - Creating author Firstname4 Lastname4 id=0
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:34 - Successfully created new author
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:32 - Creating author Firstname5 Lastname5 id=0
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:34 - Successfully created new author
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:32 - Creating author Firstname6 Lastname6 id=0
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:34 - Successfully created new author
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:32 - Creating author Firstname7 Lastname7 id=0
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:34 - Successfully created new author
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:32 - Creating author Firstname8 Lastname8 id=0
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:34 - Successfully created new author
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:32 - Creating author Firstname9 Lastname9 id=0
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:34 - Successfully created new author
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:50 - Finding all authors
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname0 Lastname0 id=1
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname1 Lastname1 id=2
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname2 Lastname2 id=3
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname3 Lastname3 id=4
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname4 Lastname4 id=5
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname5 Lastname5 id=6
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname6 Lastname6 id=7
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname7 Lastname7 id=8
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname8 Lastname8 id=9
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname9 Lastname9 id=10
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:50 - Finding all authors
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname0 Lastname0 id=1
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname1 Lastname1 id=2
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname2 Lastname2 id=3
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname3 Lastname3 id=4
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname4 Lastname4 id=5
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname5 Lastname5 id=6
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname6 Lastname6 id=7
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname7 Lastname7 id=8
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname8 Lastname8 id=9
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname9 Lastname9 id=10
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:50 - Finding all authors
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname0 Lastname0 id=1
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname1 Lastname1 id=2
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname2 Lastname2 id=3
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname3 Lastname3 id=4
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname4 Lastname4 id=5
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname5 Lastname5 id=6
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname6 Lastname6 id=7
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname7 Lastname7 id=8
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname8 Lastname8 id=9
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname9 Lastname9 id=10
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:50 - Finding all authors
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname0 Lastname0 id=1
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname1 Lastname1 id=2
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname2 Lastname2 id=3
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname3 Lastname3 id=4
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname4 Lastname4 id=5
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname5 Lastname5 id=6
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname6 Lastname6 id=7
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname7 Lastname7 id=8
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname8 Lastname8 id=9
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname9 Lastname9 id=10
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:32 - Creating author Firstname Lastname id=0
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:34 - Successfully created new author
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:50 - Finding all authors
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname0 Lastname0 id=1
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname1 Lastname1 id=2
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname2 Lastname2 id=3
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname3 Lastname3 id=4
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname4 Lastname4 id=5
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname5 Lastname5 id=6
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname6 Lastname6 id=7
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname7 Lastname7 id=8
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname8 Lastname8 id=9
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname9 Lastname9 id=10
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname Lastname id=11
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:39 - Finding author with id=11
+2021-04-17 23:52:13 INFO  BookServiceImpl:32 - Creating book "book name"; id=0
+2021-04-17 23:52:13 INFO  BookServiceImpl:34 - New book was successfully created
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:21 - Finding authors by book with id=1...
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:39 - Finding author with id=10
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:61 - Updating author Firstname10 Lastname10 id=10
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:63 - Author was successfully updated with values Firstname10 Lastname10 id=10
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:39 - Finding author with id=10
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:50 - Finding all authors
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname0 Lastname0 id=1
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname1 Lastname1 id=2
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname2 Lastname2 id=3
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname3 Lastname3 id=4
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname4 Lastname4 id=5
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname5 Lastname5 id=6
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname6 Lastname6 id=7
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname7 Lastname7 id=8
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname8 Lastname8 id=9
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname10 Lastname10 id=10
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname Lastname id=11
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:73 - Deleting author with id=1
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:76 - Author with id=1 was successfully deleted
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:50 - Finding all authors
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname1 Lastname1 id=2
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname2 Lastname2 id=3
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname3 Lastname3 id=4
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname4 Lastname4 id=5
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname5 Lastname5 id=6
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname6 Lastname6 id=7
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname7 Lastname7 id=8
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname8 Lastname8 id=9
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname10 Lastname10 id=10
+2021-04-17 23:52:13 INFO  AuthorServiceImpl:53 - Firstname Lastname id=11
+2021-04-17 23:52:13 INFO  BookServiceImpl:32 - Creating book "book name0"; id=0
+2021-04-17 23:52:13 INFO  BookServiceImpl:34 - New book was successfully created
+2021-04-17 23:52:13 INFO  BookServiceImpl:32 - Creating book "book name1"; id=0
+2021-04-17 23:52:13 INFO  BookServiceImpl:34 - New book was successfully created
+2021-04-17 23:52:13 INFO  BookServiceImpl:32 - Creating book "book name2"; id=0
+2021-04-17 23:52:13 INFO  BookServiceImpl:34 - New book was successfully created
+2021-04-17 23:52:13 INFO  BookServiceImpl:32 - Creating book "book name3"; id=0
+2021-04-17 23:52:13 INFO  BookServiceImpl:34 - New book was successfully created
+2021-04-17 23:52:13 INFO  BookServiceImpl:32 - Creating book "book name4"; id=0
+2021-04-17 23:52:13 INFO  BookServiceImpl:34 - New book was successfully created
+2021-04-17 23:52:13 INFO  BookServiceImpl:32 - Creating book "book name5"; id=0
+2021-04-17 23:52:13 INFO  BookServiceImpl:34 - New book was successfully created
+2021-04-17 23:52:13 INFO  BookServiceImpl:32 - Creating book "book name6"; id=0
+2021-04-17 23:52:13 INFO  BookServiceImpl:34 - New book was successfully created
+2021-04-17 23:52:13 INFO  BookServiceImpl:32 - Creating book "book name7"; id=0
+2021-04-17 23:52:13 INFO  BookServiceImpl:34 - New book was successfully created
+2021-04-17 23:52:13 INFO  BookServiceImpl:32 - Creating book "book name8"; id=0
+2021-04-17 23:52:13 INFO  BookServiceImpl:34 - New book was successfully created
+2021-04-17 23:52:13 INFO  BookServiceImpl:32 - Creating book "book name9"; id=0
+2021-04-17 23:52:13 INFO  BookServiceImpl:34 - New book was successfully created
+2021-04-17 23:52:13 INFO  BookServiceImpl:50 - Finding all books
+2021-04-17 23:52:13 INFO  BookServiceImpl:50 - Finding all books
