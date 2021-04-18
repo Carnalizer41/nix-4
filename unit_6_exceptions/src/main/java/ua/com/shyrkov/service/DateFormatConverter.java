@@ -34,14 +34,16 @@ public class DateFormatConverter {
         }
 
         if (format.getIsTimePresent()) {
-            timePart = dateTimeParts[1].split(":");
-            if (format.getIsSeconds()) {
-                if (format.getIsMillis())
-                    time.setMilliseconds(Integer.parseInt(timePart[3]));
-                time.setSeconds(Integer.parseInt(timePart[2]));
+            if (dateTimeParts.length == 2) {
+                timePart = dateTimeParts[1].split(":");
+                if (format.getIsSeconds()) {
+                    if (format.getIsMillis())
+                        time.setMilliseconds(Integer.parseInt(timePart[3]));
+                    time.setSeconds(Integer.parseInt(timePart[2]));
+                }
+                time.setMinutes(Integer.parseInt(timePart[1]));
+                time.setHours(Integer.parseInt(timePart[0]));
             }
-            time.setMinutes(Integer.parseInt(timePart[1]));
-            time.setHours(Integer.parseInt(timePart[0]));
         }
         date.setTime(time);
         return date;
@@ -72,7 +74,7 @@ public class DateFormatConverter {
                     builder.append(date.getMonth().getName());
                     break;
                 case DateFormat.YEAR_YY:
-                    builder.append(date.getYear()%100);
+                    builder.append(date.getYear() % 100);
                     break;
                 case DateFormat.YEAR_YYYY:
                     builder.append(date.getYear());
@@ -85,14 +87,14 @@ public class DateFormatConverter {
         }
         builder.append(" ");
 
-        if(format.getIsTimePresent()){
+        if (format.getIsTimePresent()) {
             builder.append(date.getTime().getHours());
             builder.append(":");
             builder.append(date.getTime().getMinutes());
-            if(format.getIsSeconds()){
+            if (format.getIsSeconds()) {
                 builder.append(":");
                 builder.append(date.getTime().getSeconds());
-                if(format.getIsMillis()){
+                if (format.getIsMillis()) {
                     builder.append(":");
                     builder.append(date.getTime().getMilliseconds());
                 }

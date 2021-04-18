@@ -12,14 +12,13 @@ import java.io.InputStreamReader;
 public class InputController {
 
     private final BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-    private DateFormatConverter converter;
 
     public Date readDate(DateFormat format) {
         while (true) {
             System.out.println("Please enter date with current format - " + format.toString()+"\n");
             try{
                 String line = reader.readLine();
-                return converter.convertStringToDate(line, format);
+                return DateFormatConverter.convertStringToDate(line, format);
 
             }catch (IOException | NullPointerException | DateFormatException e){
                 System.out.println(e.getMessage());
