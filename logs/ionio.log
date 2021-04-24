@@ -1,0 +1,84 @@
+2021-04-23 18:23:25 INFO  AuthorCsvIo:35 - Writing author info to csv
+2021-04-23 18:23:25 INFO  AuthorCsvIo:57 - Reading data from author.csv file
+2021-04-23 18:28:17 INFO  AuthorCsvIo:35 - Writing author info to csv
+2021-04-23 18:28:17 INFO  AuthorCsvIo:57 - Reading data from author.csv file
+2021-04-23 18:35:41 INFO  AuthorCsvIo:72 - Creating new .csv file in db
+2021-04-23 18:35:41 INFO  AuthorCsvIo:75 - Writing csv header
+2021-04-23 18:35:41 INFO  AuthorCsvIo:37 - Writing book info to csv
+2021-04-23 18:35:41 INFO  AuthorCsvIo:59 - Reading data from books.csv file
+2021-04-23 18:36:19 INFO  AuthorCsvIo:37 - Writing book info to csv
+2021-04-23 18:36:19 INFO  AuthorCsvIo:59 - Reading data from books.csv file
+2021-04-23 18:36:48 INFO  AuthorCsvIo:37 - Writing book info to csv
+2021-04-23 18:36:48 INFO  AuthorCsvIo:59 - Reading data from books.csv file
+2021-04-23 18:45:44 INFO  AuthorCsvIo:37 - Writing book info to csv
+2021-04-23 18:45:44 INFO  AuthorCsvIo:48 - Writing author-book relation info to csv
+2021-04-23 18:45:44 INFO  AuthorCsvIo:48 - Writing author-book relation info to csv
+2021-04-23 18:45:44 INFO  AuthorCsvIo:59 - Reading data from books.csv file
+2021-04-23 19:29:20 INFO  AuthorCsvIo:56 - Creating new .csv file in db
+2021-04-23 19:29:20 INFO  AuthorCsvIo:68 - Writing csv header
+2021-04-23 19:29:20 INFO  AuthorCsvIo:34 - Writing author info to csv
+2021-04-23 19:31:47 INFO  AuthorCsvIo:34 - Writing author info to csv
+2021-04-23 19:31:47 INFO  AuthorCsvIo:43 - Reading data from authors.csv file
+2021-04-23 19:37:02 INFO  AuthorCsvIo:34 - Writing author info to csv
+2021-04-23 19:37:02 INFO  AuthorCsvIo:43 - Reading data from authors.csv file
+2021-04-23 19:37:12 INFO  AuthorCsvIo:34 - Writing author info to csv
+2021-04-23 19:37:12 INFO  AuthorCsvIo:43 - Reading data from authors.csv file
+2021-04-23 19:40:42 INFO  AuthorCsvIo:34 - Writing author info to csv
+2021-04-23 19:40:42 INFO  AuthorCsvIo:43 - Reading data from authors.csv file
+2021-04-23 19:41:40 INFO  AuthorCsvIo:34 - Writing author info to csv
+2021-04-23 19:41:40 INFO  AuthorCsvIo:43 - Reading data from authors.csv file
+2021-04-23 19:42:12 INFO  AuthorCsvIo:34 - Writing author info to csv
+2021-04-23 19:42:12 INFO  AuthorCsvIo:43 - Reading data from authors.csv file
+2021-04-23 19:47:55 INFO  AuthorCsvIo:36 - Writing author info to csv
+2021-04-23 19:47:55 INFO  AuthorCsvIo:46 - Reading data from authors.csv file
+2021-04-23 19:49:41 INFO  AuthorCsvIo:36 - Writing author info to csv
+2021-04-23 19:49:41 INFO  AuthorCsvIo:46 - Reading data from authors.csv file
+2021-04-23 19:55:56 INFO  AuthorCsvIo:95 - Writing csv header
+2021-04-23 19:55:56 INFO  AuthorCsvIo:55 - Writing author info to csv
+2021-04-23 19:55:56 INFO  AuthorCsvIo:65 - Reading data from authors.csv file
+2021-04-23 19:59:05 INFO  AuthorCsvIo:95 - Writing csv header
+2021-04-23 19:59:05 INFO  AuthorCsvIo:55 - Writing author info to csv
+2021-04-23 19:59:05 INFO  AuthorCsvIo:65 - Reading data from authors.csv file
+2021-04-23 19:59:12 INFO  AuthorCsvIo:95 - Writing csv header
+2021-04-23 19:59:12 INFO  AuthorCsvIo:55 - Writing author info to csv
+2021-04-23 19:59:12 INFO  AuthorCsvIo:65 - Reading data from authors.csv file
+2021-04-23 20:00:39 INFO  AuthorCsvIo:96 - Writing csv header
+2021-04-23 20:00:39 INFO  AuthorCsvIo:56 - Writing author info to csv
+2021-04-23 20:00:39 INFO  AuthorCsvIo:66 - Reading data from authors.csv file
+2021-04-23 20:15:02 INFO  AuthorCsvIo:86 - Creating new .csv file in db
+2021-04-23 20:15:02 INFO  AuthorCsvIo:98 - Writing csv header
+2021-04-23 20:15:02 INFO  AuthorCsvIo:98 - Writing csv header
+2021-04-23 20:15:02 INFO  AuthorCsvIo:57 - Writing all books info to csv
+2021-04-23 20:15:02 INFO  AuthorCsvIo:68 - Reading data from books.csv file
+2021-04-24 01:49:01 INFO  BookServiceImpl:36 - Finding author with book`s id = 1
+2021-04-24 01:58:32 INFO  BookServiceImpl:63 - Finding author with id = 100
+2021-04-24 01:58:32 ERROR BookServiceImpl:67 - There is no author with id = 100
+2021-04-24 02:40:21 INFO  BookServiceImpl:74 - Getting all authors from database
+2021-04-24 02:40:33 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 02:40:53 INFO  BookServiceImpl:36 - Finding author with book`s id = 1
+2021-04-24 02:41:05 INFO  BookServiceImpl:33 - Finding books with author`s id = 1
+2021-04-24 02:48:39 INFO  BookServiceImpl:63 - Finding author with id = 3
+2021-04-24 02:48:49 INFO  BookServiceImpl:60 - Finding book with id = 4
+2021-04-24 02:49:17 INFO  BookServiceImpl:47 - Creating author qwerty ytrewq
+2021-04-24 02:49:17 INFO  BookServiceImpl:58 - Author successfully created
+2021-04-24 02:49:24 INFO  BookServiceImpl:74 - Getting all authors from database
+2021-04-24 02:49:43 INFO  BookServiceImpl:44 - Creating book asdf
+2021-04-24 02:49:43 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 02:49:54 INFO  BookServiceImpl:33 - Finding books with author`s id = 5
+2021-04-24 02:50:11 INFO  BookServiceImpl:36 - Finding author with book`s id = 5
+2021-04-24 02:50:22 INFO  BookServiceImpl:63 - Finding author with id = 5
+2021-04-24 02:50:35 INFO  BookServiceImpl:84 - Updating author`s info
+2021-04-24 02:50:35 INFO  BookServiceImpl:86 - Author was successfully updated
+2021-04-24 02:50:40 INFO  BookServiceImpl:74 - Getting all authors from database
+2021-04-24 02:50:49 INFO  BookServiceImpl:60 - Finding book with id = 5
+2021-04-24 02:51:02 INFO  BookServiceImpl:81 - Updating aaaaa book info
+2021-04-24 02:51:02 INFO  BookServiceImpl:83 - Book was successfully updated
+2021-04-24 02:51:07 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 02:51:21 INFO  BookServiceImpl:96 - Deleting author with id = 5
+2021-04-24 02:51:21 INFO  BookServiceImpl:99 - Author was successfully deleted
+2021-04-24 02:51:27 INFO  BookServiceImpl:74 - Getting all authors from database
+2021-04-24 02:51:34 INFO  BookServiceImpl:93 - Deleting book with id = 5
+2021-04-24 02:51:34 INFO  BookServiceImpl:96 - Book was successfully deleted
+2021-04-24 02:51:40 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 03:01:19 INFO  AuthorCsvIo:87 - Creating new .csv file in db
+2021-04-24 03:01:19 ERROR AuthorCsvIo:91 - Can`t create new .csv file

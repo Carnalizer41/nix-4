@@ -1,0 +1,395 @@
+2021-04-23 22:51:06 INFO  AuthorCsvIo:83 - Creating new .csv file in db
+2021-04-23 22:51:06 ERROR AuthorCsvIo:87 - Can`t create new .csv file
+2021-04-23 22:54:54 INFO  AuthorCsvIo:83 - Creating new .csv file in db
+2021-04-23 22:54:54 ERROR AuthorCsvIo:87 - Can`t create new .csv file
+2021-04-23 22:55:29 INFO  AuthorCsvIo:83 - Creating new .csv file in db
+2021-04-23 22:55:29 ERROR AuthorCsvIo:87 - Can`t create new .csv file
+2021-04-23 22:56:59 INFO  AuthorCsvIo:83 - Creating new .csv file in db
+2021-04-23 22:57:12 ERROR AuthorCsvIo:87 - Can`t create new .csv file
+2021-04-23 22:57:59 INFO  AuthorCsvIo:83 - Creating new .csv file in db
+2021-04-23 22:57:59 ERROR AuthorCsvIo:87 - Can`t create new .csv file
+2021-04-24 00:10:18 INFO  AuthorCsvIo:83 - Creating new .csv file in db
+2021-04-24 00:10:18 ERROR AuthorCsvIo:87 - Can`t create new .csv file
+2021-04-24 00:12:17 INFO  AuthorCsvIo:83 - Creating new .csv file in db
+2021-04-24 00:13:19 ERROR AuthorCsvIo:87 - Can`t create new .csv file
+2021-04-24 00:13:29 INFO  AuthorCsvIo:83 - Creating new .csv file in db
+2021-04-24 00:13:29 ERROR AuthorCsvIo:87 - Can`t create new .csv file
+2021-04-24 00:13:35 INFO  AuthorCsvIo:83 - Creating new .csv file in db
+2021-04-24 00:13:35 ERROR AuthorCsvIo:87 - Can`t create new .csv file
+2021-04-24 00:16:40 INFO  AuthorCsvIo:83 - Creating new .csv file in db
+2021-04-24 00:16:40 ERROR AuthorCsvIo:87 - Can`t create new .csv file
+2021-04-24 00:18:22 INFO  AuthorCsvIo:83 - Creating new .csv file in db
+2021-04-24 00:18:23 ERROR AuthorCsvIo:87 - Can`t create new .csv file
+2021-04-24 00:19:31 INFO  AuthorCsvIo:83 - Creating new .csv file in db
+2021-04-24 00:19:31 ERROR AuthorCsvIo:87 - Can`t create new .csv file
+2021-04-24 00:19:47 INFO  AuthorCsvIo:83 - Creating new .csv file in db
+2021-04-24 00:19:47 ERROR AuthorCsvIo:87 - Can`t create new .csv file
+2021-04-24 00:20:06 INFO  AuthorCsvIo:83 - Creating new .csv file in db
+2021-04-24 00:20:06 ERROR AuthorCsvIo:87 - Can`t create new .csv file
+2021-04-24 00:21:08 INFO  AuthorCsvIo:83 - Creating new .csv file in db
+2021-04-24 00:21:08 ERROR AuthorCsvIo:87 - Can`t create new .csv file
+2021-04-24 00:23:09 INFO  AuthorCsvIo:83 - Creating new .csv file in db
+2021-04-24 00:23:09 ERROR AuthorCsvIo:87 - Can`t create new .csv file
+2021-04-24 00:24:07 INFO  AuthorCsvIo:83 - Creating new .csv file in db
+2021-04-24 00:24:07 ERROR AuthorCsvIo:87 - Can`t create new .csv file
+2021-04-24 00:24:39 INFO  AuthorCsvIo:83 - Creating new .csv file in db
+2021-04-24 00:26:38 ERROR AuthorCsvIo:87 - Can`t create new .csv file
+2021-04-24 00:26:46 INFO  AuthorCsvIo:83 - Creating new .csv file in db
+2021-04-24 00:26:46 ERROR AuthorCsvIo:87 - Can`t create new .csv file
+2021-04-24 00:26:59 INFO  AuthorCsvIo:83 - Creating new .csv file in db
+2021-04-24 00:26:59 ERROR AuthorCsvIo:87 - Can`t create new .csv file
+2021-04-24 00:27:09 INFO  AuthorCsvIo:83 - Creating new .csv file in db
+2021-04-24 00:27:09 INFO  AuthorCsvIo:95 - Writing csv header
+2021-04-24 00:27:09 INFO  BookServiceImpl:47 - Creating author FName LName
+2021-04-24 00:27:09 ERROR AuthorCsvIo:71 - IOException: unit_9_ionio_1\src\main\resources\db\authors.csv (Системе не удается найти указанный путь)
+2021-04-24 00:27:52 INFO  AuthorCsvIo:83 - Creating new .csv file in db
+2021-04-24 00:27:52 INFO  AuthorCsvIo:95 - Writing csv header
+2021-04-24 00:27:52 INFO  AuthorCsvIo:86 - Creating new .csv file in db
+2021-04-24 00:27:52 INFO  AuthorCsvIo:98 - Writing csv header
+2021-04-24 00:27:52 INFO  BookServiceImpl:47 - Creating author FName LName
+2021-04-24 00:27:52 ERROR AuthorCsvIo:71 - IOException: unit_9_ionio_1\src\main\resources\db\authors.csv (Системе не удается найти указанный путь)
+2021-04-24 00:30:48 INFO  BookServiceImpl:47 - Creating author FName LName
+2021-04-24 00:30:48 ERROR AuthorCsvIo:71 - IOException: unit_9_ionio_1\src\main\resources\db\authors.csv (Системе не удается найти указанный путь)
+2021-04-24 00:32:31 INFO  BookServiceImpl:47 - Creating author FName LName
+2021-04-24 00:32:31 ERROR AuthorCsvIo:71 - IOException: unit_9_ionio_1\src\main\resources\db\authors.csv (Системе не удается найти указанный путь)
+2021-04-24 00:33:09 INFO  BookServiceImpl:47 - Creating author FName LName
+2021-04-24 00:33:09 ERROR AuthorCsvIo:71 - IOException: unit_9_ionio_1\src\main\resources\db\authors.csv (Системе не удается найти указанный путь)
+2021-04-24 00:33:26 INFO  BookServiceImpl:47 - Creating author FName LName
+2021-04-24 00:34:06 ERROR AuthorCsvIo:71 - IOException: unit_9_ionio_1\src\main\resources\db\authors.csv (Системе не удается найти указанный путь)
+2021-04-24 00:35:50 INFO  BookServiceImpl:47 - Creating author FName LName
+2021-04-24 00:35:50 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:35:50 INFO  AuthorCsvIo:41 - Writing author info to csv
+2021-04-24 00:35:50 INFO  BookServiceImpl:58 - Author successfully created
+2021-04-24 00:35:50 INFO  BookServiceImpl:44 - Creating book Book Title01
+2021-04-24 00:35:50 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  BookServiceImpl:47 - Creating author FName LName
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:41 - Writing author info to csv
+2021-04-24 00:40:26 INFO  BookServiceImpl:58 - Author successfully created
+2021-04-24 00:40:26 INFO  BookServiceImpl:44 - Creating book Book Title01
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:74 - Reading data from books.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:44 - Writing book info to csv
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:102 - Writing csv header
+2021-04-24 00:40:26 INFO  AuthorCsvIo:61 - Writing author info to csv
+2021-04-24 00:40:26 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:40:26 INFO  BookServiceImpl:44 - Creating book Book Title11
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:74 - Reading data from books.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:44 - Writing book info to csv
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:102 - Writing csv header
+2021-04-24 00:40:26 INFO  AuthorCsvIo:61 - Writing author info to csv
+2021-04-24 00:40:26 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:40:26 INFO  BookServiceImpl:44 - Creating book Book Title21
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:74 - Reading data from books.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:44 - Writing book info to csv
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:102 - Writing csv header
+2021-04-24 00:40:26 INFO  AuthorCsvIo:61 - Writing author info to csv
+2021-04-24 00:40:26 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:40:26 INFO  BookServiceImpl:44 - Creating book Book Title31
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:74 - Reading data from books.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:44 - Writing book info to csv
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:102 - Writing csv header
+2021-04-24 00:40:26 INFO  AuthorCsvIo:61 - Writing author info to csv
+2021-04-24 00:40:26 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:40:26 INFO  BookServiceImpl:44 - Creating book Book Title41
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:74 - Reading data from books.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:44 - Writing book info to csv
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:102 - Writing csv header
+2021-04-24 00:40:26 INFO  AuthorCsvIo:61 - Writing author info to csv
+2021-04-24 00:40:26 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:40:26 INFO  BookServiceImpl:44 - Creating book Book Title51
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:74 - Reading data from books.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:44 - Writing book info to csv
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:102 - Writing csv header
+2021-04-24 00:40:26 INFO  AuthorCsvIo:61 - Writing author info to csv
+2021-04-24 00:40:26 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:40:26 INFO  BookServiceImpl:44 - Creating book Book Title61
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:74 - Reading data from books.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:44 - Writing book info to csv
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:102 - Writing csv header
+2021-04-24 00:40:26 INFO  AuthorCsvIo:61 - Writing author info to csv
+2021-04-24 00:40:26 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:40:26 INFO  BookServiceImpl:44 - Creating book Book Title71
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:74 - Reading data from books.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:44 - Writing book info to csv
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:102 - Writing csv header
+2021-04-24 00:40:26 INFO  AuthorCsvIo:61 - Writing author info to csv
+2021-04-24 00:40:26 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:40:26 INFO  BookServiceImpl:44 - Creating book Book Title81
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:74 - Reading data from books.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:44 - Writing book info to csv
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:102 - Writing csv header
+2021-04-24 00:40:26 INFO  AuthorCsvIo:61 - Writing author info to csv
+2021-04-24 00:40:26 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:40:26 INFO  BookServiceImpl:44 - Creating book Book Title91
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:74 - Reading data from books.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:44 - Writing book info to csv
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  AuthorCsvIo:102 - Writing csv header
+2021-04-24 00:40:26 INFO  AuthorCsvIo:61 - Writing author info to csv
+2021-04-24 00:40:26 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:40:26 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 00:40:26 INFO  AuthorCsvIo:74 - Reading data from books.csv file
+2021-04-24 00:40:26 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 00:40:26 INFO  AuthorCsvIo:74 - Reading data from books.csv file
+2021-04-24 00:40:26 INFO  BookServiceImpl:63 - Finding author with id = 1
+2021-04-24 00:40:26 INFO  AuthorCsvIo:71 - Reading data from authors.csv file
+2021-04-24 00:40:26 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 00:40:26 INFO  AuthorCsvIo:74 - Reading data from books.csv file
+2021-04-24 00:42:17 INFO  BookServiceImpl:47 - Creating author FName LName
+2021-04-24 00:42:17 INFO  BookServiceImpl:58 - Author successfully created
+2021-04-24 00:42:17 INFO  BookServiceImpl:44 - Creating book Book Title01
+2021-04-24 00:42:17 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:42:17 INFO  BookServiceImpl:44 - Creating book Book Title11
+2021-04-24 00:42:17 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:42:17 INFO  BookServiceImpl:44 - Creating book Book Title21
+2021-04-24 00:42:17 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:42:17 INFO  BookServiceImpl:44 - Creating book Book Title31
+2021-04-24 00:42:17 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:42:17 INFO  BookServiceImpl:44 - Creating book Book Title41
+2021-04-24 00:42:17 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:42:17 INFO  BookServiceImpl:44 - Creating book Book Title51
+2021-04-24 00:42:17 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:42:17 INFO  BookServiceImpl:44 - Creating book Book Title61
+2021-04-24 00:42:17 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:42:17 INFO  BookServiceImpl:44 - Creating book Book Title71
+2021-04-24 00:42:17 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:42:17 INFO  BookServiceImpl:44 - Creating book Book Title81
+2021-04-24 00:42:17 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:42:17 INFO  BookServiceImpl:44 - Creating book Book Title91
+2021-04-24 00:42:17 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:42:17 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 00:42:17 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 00:42:57 INFO  AuthorCsvIo:87 - Creating new .csv file in db
+2021-04-24 00:42:57 INFO  AuthorCsvIo:90 - Creating new .csv file in db
+2021-04-24 00:42:57 INFO  BookServiceImpl:47 - Creating author FName LName
+2021-04-24 00:42:57 INFO  BookServiceImpl:58 - Author successfully created
+2021-04-24 00:42:57 INFO  BookServiceImpl:44 - Creating book Book Title01
+2021-04-24 00:42:57 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:42:57 INFO  BookServiceImpl:44 - Creating book Book Title11
+2021-04-24 00:42:57 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:42:57 INFO  BookServiceImpl:44 - Creating book Book Title21
+2021-04-24 00:42:57 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:42:57 INFO  BookServiceImpl:44 - Creating book Book Title31
+2021-04-24 00:42:57 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:42:57 INFO  BookServiceImpl:44 - Creating book Book Title41
+2021-04-24 00:42:57 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:42:57 INFO  BookServiceImpl:44 - Creating book Book Title51
+2021-04-24 00:42:57 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:42:57 INFO  BookServiceImpl:44 - Creating book Book Title61
+2021-04-24 00:42:57 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:42:57 INFO  BookServiceImpl:44 - Creating book Book Title71
+2021-04-24 00:42:57 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:42:57 INFO  BookServiceImpl:44 - Creating book Book Title81
+2021-04-24 00:42:57 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:42:57 INFO  BookServiceImpl:44 - Creating book Book Title91
+2021-04-24 00:42:57 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:42:57 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 00:42:57 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 00:42:57 INFO  BookServiceImpl:63 - Finding author with id = 1
+2021-04-24 00:42:58 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 00:47:51 INFO  BookServiceImpl:47 - Creating author FName LName
+2021-04-24 00:47:51 INFO  BookServiceImpl:58 - Author successfully created
+2021-04-24 00:47:51 INFO  BookServiceImpl:74 - Getting all authors from database
+2021-04-24 00:47:51 INFO  BookServiceImpl:44 - Creating book Book Title1
+2021-04-24 00:47:51 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:47:51 INFO  BookServiceImpl:44 - Creating book Book Title2
+2021-04-24 00:47:51 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:47:51 INFO  BookServiceImpl:44 - Creating book Book Title3
+2021-04-24 00:47:51 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:47:51 INFO  BookServiceImpl:44 - Creating book Book Title4
+2021-04-24 00:47:51 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:47:51 INFO  BookServiceImpl:44 - Creating book Book Title5
+2021-04-24 00:47:51 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:47:51 INFO  BookServiceImpl:44 - Creating book Book Title6
+2021-04-24 00:47:51 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:47:51 INFO  BookServiceImpl:44 - Creating book Book Title7
+2021-04-24 00:47:52 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:47:52 INFO  BookServiceImpl:44 - Creating book Book Title8
+2021-04-24 00:47:52 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:47:52 INFO  BookServiceImpl:44 - Creating book Book Title9
+2021-04-24 00:47:52 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:47:52 INFO  BookServiceImpl:44 - Creating book Book Title10
+2021-04-24 00:47:52 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:47:52 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 00:47:52 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 00:58:12 INFO  AuthorCsvIo:87 - Creating new .csv file in db
+2021-04-24 00:58:12 INFO  AuthorCsvIo:90 - Creating new .csv file in db
+2021-04-24 00:58:12 INFO  BookServiceImpl:47 - Creating author FName LName
+2021-04-24 00:58:12 INFO  BookServiceImpl:58 - Author successfully created
+2021-04-24 00:58:12 INFO  BookServiceImpl:74 - Getting all authors from database
+2021-04-24 00:58:12 INFO  BookServiceImpl:44 - Creating book Book Title1
+2021-04-24 00:58:12 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:58:12 INFO  BookServiceImpl:44 - Creating book Book Title2
+2021-04-24 00:58:12 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:58:12 INFO  BookServiceImpl:44 - Creating book Book Title3
+2021-04-24 00:58:12 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:58:12 INFO  BookServiceImpl:44 - Creating book Book Title4
+2021-04-24 00:58:12 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:58:12 INFO  BookServiceImpl:44 - Creating book Book Title5
+2021-04-24 00:58:12 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:58:12 INFO  BookServiceImpl:44 - Creating book Book Title6
+2021-04-24 00:58:12 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:58:12 INFO  BookServiceImpl:44 - Creating book Book Title7
+2021-04-24 00:58:12 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:58:12 INFO  BookServiceImpl:44 - Creating book Book Title8
+2021-04-24 00:58:12 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:58:12 INFO  BookServiceImpl:44 - Creating book Book Title9
+2021-04-24 00:58:12 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:58:12 INFO  BookServiceImpl:44 - Creating book Book Title10
+2021-04-24 00:58:12 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:58:12 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 00:58:12 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 00:58:12 INFO  BookServiceImpl:63 - Finding author with id = 1
+2021-04-24 00:58:12 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 00:58:12 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 00:58:12 INFO  BookServiceImpl:44 - Creating book Book Title
+2021-04-24 00:59:24 INFO  AuthorCsvIo:87 - Creating new .csv file in db
+2021-04-24 00:59:24 INFO  AuthorCsvIo:90 - Creating new .csv file in db
+2021-04-24 00:59:24 INFO  BookServiceImpl:47 - Creating author FName LName
+2021-04-24 00:59:24 INFO  BookServiceImpl:58 - Author successfully created
+2021-04-24 00:59:24 INFO  BookServiceImpl:74 - Getting all authors from database
+2021-04-24 00:59:24 INFO  BookServiceImpl:44 - Creating book Book Title1
+2021-04-24 00:59:24 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:59:24 INFO  BookServiceImpl:44 - Creating book Book Title2
+2021-04-24 00:59:24 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:59:24 INFO  BookServiceImpl:44 - Creating book Book Title3
+2021-04-24 00:59:24 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:59:24 INFO  BookServiceImpl:44 - Creating book Book Title4
+2021-04-24 00:59:24 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:59:24 INFO  BookServiceImpl:44 - Creating book Book Title5
+2021-04-24 00:59:24 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:59:24 INFO  BookServiceImpl:44 - Creating book Book Title6
+2021-04-24 00:59:24 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:59:24 INFO  BookServiceImpl:44 - Creating book Book Title7
+2021-04-24 00:59:24 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:59:24 INFO  BookServiceImpl:44 - Creating book Book Title8
+2021-04-24 00:59:24 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:59:24 INFO  BookServiceImpl:44 - Creating book Book Title9
+2021-04-24 00:59:24 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:59:24 INFO  BookServiceImpl:44 - Creating book Book Title10
+2021-04-24 00:59:24 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:59:24 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 00:59:24 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 00:59:24 INFO  BookServiceImpl:63 - Finding author with id = 1
+2021-04-24 00:59:24 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 00:59:24 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 00:59:24 INFO  BookServiceImpl:44 - Creating book Book Title
+2021-04-24 00:59:24 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 00:59:24 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 01:06:48 INFO  AuthorCsvIo:87 - Creating new .csv file in db
+2021-04-24 01:06:48 INFO  AuthorCsvIo:90 - Creating new .csv file in db
+2021-04-24 01:06:48 INFO  BookServiceImpl:47 - Creating author FName LName
+2021-04-24 01:06:48 INFO  BookServiceImpl:58 - Author successfully created
+2021-04-24 01:06:48 INFO  BookServiceImpl:74 - Getting all authors from database
+2021-04-24 01:06:48 INFO  BookServiceImpl:44 - Creating book Book Title1
+2021-04-24 01:06:48 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 01:06:48 INFO  BookServiceImpl:44 - Creating book Book Title2
+2021-04-24 01:06:48 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 01:06:48 INFO  BookServiceImpl:44 - Creating book Book Title3
+2021-04-24 01:06:48 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 01:06:48 INFO  BookServiceImpl:44 - Creating book Book Title4
+2021-04-24 01:06:48 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 01:06:48 INFO  BookServiceImpl:44 - Creating book Book Title5
+2021-04-24 01:06:48 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 01:06:48 INFO  BookServiceImpl:44 - Creating book Book Title6
+2021-04-24 01:06:48 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 01:06:48 INFO  BookServiceImpl:44 - Creating book Book Title7
+2021-04-24 01:06:48 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 01:06:48 INFO  BookServiceImpl:44 - Creating book Book Title8
+2021-04-24 01:06:48 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 01:06:48 INFO  BookServiceImpl:44 - Creating book Book Title9
+2021-04-24 01:06:48 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 01:06:48 INFO  BookServiceImpl:44 - Creating book Book Title10
+2021-04-24 01:06:48 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 01:06:48 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 01:06:48 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 01:06:48 INFO  BookServiceImpl:63 - Finding author with id = 1
+2021-04-24 01:06:48 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 01:06:48 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 01:06:48 INFO  BookServiceImpl:44 - Creating book Book Title
+2021-04-24 01:06:48 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 01:06:48 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 01:06:48 INFO  BookServiceImpl:60 - Finding book with id = 11
+2021-04-24 01:06:48 INFO  BookServiceImpl:33 - Finding books with author`s id = 1
+2021-04-24 01:06:48 INFO  BookServiceImpl:60 - Finding book with id = 11
+2021-04-24 01:06:48 INFO  BookServiceImpl:81 - Updating Book Title10 book info
+2021-04-24 01:06:48 INFO  BookServiceImpl:83 - Book was successfully updated
+2021-04-24 01:06:48 INFO  BookServiceImpl:60 - Finding book with id = 10
+2021-04-24 01:06:48 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 01:06:48 INFO  BookServiceImpl:93 - Deleting book with id = 1
+2021-04-24 01:06:48 INFO  BookServiceImpl:96 - Book was successfully deleted
+2021-04-24 01:06:48 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 01:17:04 INFO  AuthorCsvIo:87 - Creating new .csv file in db
+2021-04-24 01:17:04 INFO  AuthorCsvIo:90 - Creating new .csv file in db
+2021-04-24 01:17:04 INFO  BookServiceImpl:44 - Creating book Title
+2021-04-24 01:17:04 INFO  BookServiceImpl:55 - Book successfully created
+2021-04-24 01:17:04 INFO  BookServiceImpl:71 - Getting all books from database
+2021-04-24 01:17:04 INFO  BookServiceImpl:47 - Creating author Firstname1 Lastname1
+2021-04-24 01:17:04 INFO  BookServiceImpl:58 - Author successfully created
+2021-04-24 01:17:04 INFO  BookServiceImpl:47 - Creating author Firstname2 Lastname2
+2021-04-24 01:17:04 INFO  BookServiceImpl:58 - Author successfully created
+2021-04-24 01:17:04 INFO  BookServiceImpl:47 - Creating author Firstname3 Lastname3
+2021-04-24 01:17:04 INFO  BookServiceImpl:58 - Author successfully created
+2021-04-24 01:17:04 INFO  BookServiceImpl:47 - Creating author Firstname4 Lastname4
+2021-04-24 01:17:04 INFO  BookServiceImpl:58 - Author successfully created
+2021-04-24 01:17:04 INFO  BookServiceImpl:47 - Creating author Firstname5 Lastname5
+2021-04-24 01:17:04 INFO  BookServiceImpl:58 - Author successfully created
+2021-04-24 01:17:04 INFO  BookServiceImpl:47 - Creating author Firstname6 Lastname6
+2021-04-24 01:17:04 INFO  BookServiceImpl:58 - Author successfully created
+2021-04-24 01:17:04 INFO  BookServiceImpl:47 - Creating author Firstname7 Lastname7
+2021-04-24 01:17:04 INFO  BookServiceImpl:58 - Author successfully created
+2021-04-24 01:17:04 INFO  BookServiceImpl:47 - Creating author Firstname8 Lastname8
+2021-04-24 01:17:04 INFO  BookServiceImpl:58 - Author successfully created
+2021-04-24 01:17:04 INFO  BookServiceImpl:47 - Creating author Firstname9 Lastname9
+2021-04-24 01:17:04 INFO  BookServiceImpl:58 - Author successfully created
+2021-04-24 01:17:04 INFO  BookServiceImpl:47 - Creating author Firstname10 Lastname10
+2021-04-24 01:17:04 INFO  BookServiceImpl:58 - Author successfully created
+2021-04-24 01:17:04 INFO  BookServiceImpl:74 - Getting all authors from database
+2021-04-24 01:17:04 INFO  BookServiceImpl:74 - Getting all authors from database
+2021-04-24 01:17:04 INFO  BookServiceImpl:60 - Finding book with id = 1
+2021-04-24 01:17:04 INFO  BookServiceImpl:74 - Getting all authors from database
+2021-04-24 01:17:04 INFO  BookServiceImpl:74 - Getting all authors from database
+2021-04-24 01:17:04 INFO  BookServiceImpl:47 - Creating author Firstname Lastname
+2021-04-24 01:17:04 INFO  BookServiceImpl:58 - Author successfully created
+2021-04-24 01:17:04 INFO  BookServiceImpl:74 - Getting all authors from database
+2021-04-24 01:17:04 INFO  BookServiceImpl:63 - Finding author with id = 11
+2021-04-24 01:17:04 INFO  BookServiceImpl:36 - Finding author with book`s id = 1
+2021-04-24 01:17:04 INFO  BookServiceImpl:63 - Finding author with id = 11
+2021-04-24 01:17:04 INFO  BookServiceImpl:84 - Updating author`s info
+2021-04-24 01:17:04 INFO  BookServiceImpl:86 - Author was successfully updated
+2021-04-24 01:17:04 INFO  BookServiceImpl:63 - Finding author with id = 11
+2021-04-24 01:17:04 INFO  BookServiceImpl:74 - Getting all authors from database
+2021-04-24 01:17:04 INFO  BookServiceImpl:96 - Deleting author with id = 1
+2021-04-24 01:17:04 INFO  BookServiceImpl:99 - Author was successfully deleted
+2021-04-24 01:17:04 INFO  BookServiceImpl:74 - Getting all authors from database
+2021-04-24 02:57:55 INFO  AuthorCsvIo:87 - Creating new .csv file in db
+2021-04-24 02:57:55 ERROR AuthorCsvIo:91 - Can`t create new .csv file
