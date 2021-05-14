@@ -1,0 +1,7 @@
+2021-05-14 20:00:13 INFO  DateParserRunner:16 - Reading input.txt file
+2021-05-14 20:00:13 INFO  DateParserRunner:32 - Checking input file existence
+2021-05-14 20:00:13 INFO  DateParserRunner:23 - Reading line by line
+2021-05-14 20:00:13 INFO  DateParserRunner:20 - Parsing strings into custom format
+2021-05-14 20:00:13 INFO  DateParserRunner:24 - Writing results into output.txt file
+2021-05-14 20:00:13 INFO  DateParserRunner:34 - Checking output file existence
+2021-05-14 20:00:13 INFO  DateParserRunner:39 - Cleaning output file
