@@ -14,12 +14,12 @@ public class FileWriter {
     private String filePath;
     private static final Logger logger = Logger.getLogger(DateParserRunner.class);
 
-    public FileWriter(String filePath){
+    public FileWriter(String filePath) {
         this.filePath = filePath;
         file = new File(this.filePath);
     }
 
-    public void write(List<String> lines) {
+    public void writeAll(List<String> lines) {
         try (BufferedWriter writer = new BufferedWriter(
                 new java.io.FileWriter(this.filePath, true))) {
             cleanFile();
@@ -29,6 +29,17 @@ public class FileWriter {
                     writer.newLine();
                 }
             }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+    }
+
+    public void write(String line) {
+        try (BufferedWriter writer = new BufferedWriter(
+                new java.io.FileWriter(this.filePath, true))) {
+            cleanFile();
+            writer.append(line);
         } catch (IOException e) {
             e.printStackTrace();
         }

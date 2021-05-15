@@ -24,6 +24,6 @@ public class DateParserRunner {
         }
         logger.info("Writing results into output.txt file");
         FileWriter writer = new FileWriter("src/main/java/ua/com/shyrkov/task1/db/output.txt");
-        writer.write(res);
+        writer.writeAll(res);
     }
 }

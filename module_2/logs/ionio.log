@@ -12,3 +12,17 @@
 2021-05-15 16:58:20 INFO  DateParserRunner:25 - Writing results into output.txt file
 2021-05-15 16:58:20 INFO  DateParserRunner:40 - Checking output file existence
 2021-05-15 16:58:20 INFO  DateParserRunner:45 - Cleaning output file
+2021-05-15 18:07:29 INFO  DateParserRunner:16 - Reading input.txt file
+2021-05-15 18:07:29 INFO  DateParserRunner:38 - Checking input file existence
+2021-05-15 18:07:29 INFO  DateParserRunner:29 - Reading line by line
+2021-05-15 18:07:29 INFO  DateParserRunner:21 - Parsing strings into custom format
+2021-05-15 18:07:29 INFO  DateParserRunner:25 - Writing results into output.txt file
+2021-05-15 18:07:29 INFO  DateParserRunner:51 - Checking output file existence
+2021-05-15 18:07:29 INFO  DateParserRunner:56 - Cleaning output file
+2021-05-15 18:07:29 INFO  DateParserRunner:16 - Reading input.txt file
+2021-05-15 18:07:29 INFO  DateParserRunner:38 - Checking input file existence
+2021-05-15 18:07:29 INFO  DateParserRunner:29 - Reading line by line
+2021-05-15 18:07:29 INFO  DateParserRunner:19 - Finding first unique string
+2021-05-15 18:07:29 INFO  DateParserRunner:21 - Writing result into output.txt file
+2021-05-15 18:07:29 INFO  DateParserRunner:51 - Checking output file existence
+2021-05-15 18:07:29 INFO  DateParserRunner:56 - Cleaning output file
