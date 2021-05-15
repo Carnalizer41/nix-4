@@ -1,4 +1,4 @@
-package ua.com.shyrkov.task1.service.io;
+package ua.com.shyrkov.service.io;
 
 import org.apache.log4j.Logger;
 import ua.com.shyrkov.task1.DateParserRunner;
@@ -10,12 +10,18 @@ import java.util.List;
 
 public class FileWriter {
 
-    private static final File file = new File("src/main/java/ua/com/shyrkov/task1/db/output.txt");
+    private File file;
+    private String filePath;
     private static final Logger logger = Logger.getLogger(DateParserRunner.class);
 
-    public static void write(List<String> lines) {
+    public FileWriter(String filePath){
+        this.filePath = filePath;
+        file = new File(this.filePath);
+    }
+
+    public void write(List<String> lines) {
         try (BufferedWriter writer = new BufferedWriter(
-                new java.io.FileWriter("src/main/java/ua/com/shyrkov/task1/db/output.txt", true))) {
+                new java.io.FileWriter(this.filePath, true))) {
             cleanFile();
             for (String line : lines) {
                 if (line != null) {
@@ -29,7 +35,7 @@ public class FileWriter {
 
     }
 
-    private static void cleanFile() {
+    private void cleanFile() {
         try {
             logger.info("Checking output file existence");
             if (!file.exists()) {

@@ -1,4 +1,4 @@
-package ua.com.shyrkov.task1.service.io;
+package ua.com.shyrkov.service.io;
 
 import lombok.SneakyThrows;
 import org.apache.log4j.Logger;
@@ -10,15 +10,21 @@ import java.util.List;
 
 public class FileReader {
 
-    private static final File file = new File("src/main/java/ua/com/shyrkov/task1/db/input.txt");
+    private File file;
+    private String filePath;
     private static final Logger logger = Logger.getLogger(DateParserRunner.class);
 
+    public FileReader(String filePath){
+        this.filePath = filePath;
+        file = new File(this.filePath);
+    }
+
     @SneakyThrows
-    public static List<String> readFile() {
+    public List<String> readFile() {
         List<String> lines = new ArrayList<>();
         checkFile();
         BufferedReader reader = new BufferedReader(
-                new java.io.FileReader("src/main/java/ua/com/shyrkov/task1/db/input.txt"));
+                new java.io.FileReader(filePath));
         String line;
         logger.info("Reading line by line");
         while ((line = reader.readLine()) != null) {
@@ -28,7 +34,7 @@ public class FileReader {
         return lines;
     }
 
-    private static void checkFile() {
+    private void checkFile() {
         logger.info("Checking input file existence");
         if (!file.exists()) {
             try {
