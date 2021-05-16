@@ -35,18 +35,18 @@ public class FileWriter {
 
     }
 
-    public void write(String line) {
+    public void writeLine(String line) {
         try (BufferedWriter writer = new BufferedWriter(
                 new java.io.FileWriter(this.filePath, true))) {
-            cleanFile();
             writer.append(line);
+            writer.newLine();
         } catch (IOException e) {
             e.printStackTrace();
         }
 
     }
 
-    private void cleanFile() {
+    public void cleanFile() {
         try {
             logger.info("Checking output file existence");
             if (!file.exists()) {

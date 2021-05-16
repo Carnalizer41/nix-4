@@ -82,3 +82,67 @@
 2021-04-24 02:51:40 INFO  BookServiceImpl:71 - Getting all books from database
 2021-04-24 03:01:19 INFO  AuthorCsvIo:87 - Creating new .csv file in db
 2021-04-24 03:01:19 ERROR AuthorCsvIo:91 - Can`t create new .csv file
+2021-05-16 11:23:11 INFO  DateParserRunner:22 - Reading input.txt file
+2021-05-16 11:23:11 INFO  DateParserRunner:38 - Checking input file existence
+2021-05-16 11:23:11 INFO  DateParserRunner:29 - Reading line by line
+2021-05-16 11:25:39 INFO  DateParserRunner:22 - Reading input.txt file
+2021-05-16 11:25:39 INFO  DateParserRunner:38 - Checking input file existence
+2021-05-16 11:25:39 INFO  DateParserRunner:29 - Reading line by line
+2021-05-16 11:25:47 INFO  DateParserRunner:22 - Reading input.txt file
+2021-05-16 11:25:47 INFO  DateParserRunner:38 - Checking input file existence
+2021-05-16 11:25:47 INFO  DateParserRunner:29 - Reading line by line
+2021-05-16 11:26:27 INFO  DateParserRunner:22 - Reading input.txt file
+2021-05-16 11:26:27 INFO  DateParserRunner:38 - Checking input file existence
+2021-05-16 11:26:27 INFO  DateParserRunner:29 - Reading line by line
+2021-05-16 11:35:40 INFO  DateParserRunner:19 - Reading input.txt file
+2021-05-16 11:35:40 INFO  DateParserRunner:38 - Checking input file existence
+2021-05-16 11:35:40 INFO  DateParserRunner:29 - Reading line by line
+2021-05-16 11:36:25 INFO  DateParserRunner:19 - Reading input.txt file
+2021-05-16 11:36:25 INFO  DateParserRunner:38 - Checking input file existence
+2021-05-16 11:36:25 INFO  DateParserRunner:29 - Reading line by line
+2021-05-16 11:37:55 INFO  DateParserRunner:19 - Reading input.txt file
+2021-05-16 11:37:55 INFO  DateParserRunner:38 - Checking input file existence
+2021-05-16 11:37:55 INFO  DateParserRunner:29 - Reading line by line
+2021-05-16 11:37:55 INFO  DateParserRunner:56 - Finding distance between gdansk and warszawa
+2021-05-16 11:46:40 INFO  DateParserRunner:19 - Reading input.txt file
+2021-05-16 11:46:40 INFO  DateParserRunner:38 - Checking input file existence
+2021-05-16 11:46:40 INFO  DateParserRunner:29 - Reading line by line
+2021-05-16 11:46:40 INFO  DateParserRunner:56 - Finding distance between gdansk and warszawa
+2021-05-16 11:55:07 INFO  DateParserRunner:19 - Reading input.txt file
+2021-05-16 11:55:07 INFO  DateParserRunner:38 - Checking input file existence
+2021-05-16 11:55:07 INFO  DateParserRunner:29 - Reading line by line
+2021-05-16 11:55:13 INFO  DateParserRunner:56 - Finding distance between gdansk and warszawa
+2021-05-16 11:58:14 INFO  DateParserRunner:19 - Reading input.txt file
+2021-05-16 11:58:14 INFO  DateParserRunner:38 - Checking input file existence
+2021-05-16 11:58:14 INFO  DateParserRunner:29 - Reading line by line
+2021-05-16 11:58:14 INFO  DateParserRunner:56 - Finding distance between gdansk and warszawa
+2021-05-16 11:58:14 INFO  DateParserRunner:59 - Writing result into output.txt file
+2021-05-16 11:58:14 INFO  DateParserRunner:51 - Checking output file existence
+2021-05-16 11:58:14 INFO  DateParserRunner:56 - Cleaning output file
+2021-05-16 11:58:14 INFO  DateParserRunner:56 - Finding distance between bydgoszcz and warszawa
+2021-05-16 11:58:14 INFO  DateParserRunner:59 - Writing result into output.txt file
+2021-05-16 11:58:14 INFO  DateParserRunner:51 - Checking output file existence
+2021-05-16 11:58:14 INFO  DateParserRunner:56 - Cleaning output file
+2021-05-16 11:59:58 INFO  DateParserRunner:19 - Reading input.txt file
+2021-05-16 11:59:58 INFO  DateParserRunner:50 - Checking output file existence
+2021-05-16 11:59:58 INFO  DateParserRunner:55 - Cleaning output file
+2021-05-16 11:59:58 INFO  DateParserRunner:38 - Checking input file existence
+2021-05-16 11:59:58 INFO  DateParserRunner:29 - Reading line by line
+2021-05-16 11:59:58 INFO  DateParserRunner:57 - Finding distance between gdansk and warszawa
+2021-05-16 11:59:58 INFO  DateParserRunner:60 - Writing result into output.txt file
+2021-05-16 11:59:58 INFO  DateParserRunner:57 - Finding distance between bydgoszcz and warszawa
+2021-05-16 11:59:58 INFO  DateParserRunner:60 - Writing result into output.txt file
+2021-05-16 12:00:30 INFO  DateParserRunner:18 - Reading input.txt file
+2021-05-16 12:00:30 INFO  DateParserRunner:51 - Checking output file existence
+2021-05-16 12:00:30 INFO  DateParserRunner:56 - Cleaning output file
+2021-05-16 12:00:30 INFO  DateParserRunner:38 - Checking input file existence
+2021-05-16 12:00:30 INFO  DateParserRunner:29 - Reading line by line
+2021-05-16 12:00:30 INFO  DateParserRunner:56 - Finding distance between gdansk and warszawa
+2021-05-16 12:00:30 INFO  DateParserRunner:59 - Writing result into output.txt file
+2021-05-16 12:00:30 INFO  DateParserRunner:56 - Finding distance between bydgoszcz and warszawa
+2021-05-16 12:00:30 INFO  DateParserRunner:59 - Writing result into output.txt file
+2021-05-16 12:02:44 INFO  DateParserRunner:16 - ============== Task 1 ================
+2021-05-16 12:02:44 INFO  DateParserRunner:17 - Reading input.txt file
+2021-05-16 12:02:44 INFO  DateParserRunner:38 - Checking input file existence
+2021-05-16 12:02:44 INFO  DateParserRunner:41 - Creating new input file
+2021-05-16 12:02:44 ERROR DateParserRunner:45 - Can not create new input file
