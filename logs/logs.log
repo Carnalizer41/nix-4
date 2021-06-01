@@ -1,0 +1,70 @@
+2021-06-02 01:52:53,470 INFO [main] u.c.s.d.ConnectionProvider [ConnectionProvider.java:23] Connecting to jdbc:postgresql://localhost:5432/nix-unit10
+2021-06-02 01:52:54,081 INFO [main] u.c.s.d.ConnectionProvider [ConnectionProvider.java:26] Opened connection to jdbc:postgresql://localhost:5432/nix-unit10
+2021-06-02 01:52:54,088 INFO [main] u.c.s.d.i.LocationDao [LocationDao.java:27] Finding all from locations
+2021-06-02 01:52:54,220 INFO [main] u.c.s.d.i.RouteDao [RouteDao.java:27] Finding all from routes
+2021-06-02 01:52:54,232 INFO [main] u.c.s.d.i.ProblemDao [ProblemDao.java:27] Finding all from problems
+2021-06-02 02:03:54,895 INFO [main] u.c.s.d.ConnectionProvider [ConnectionProvider.java:23] Connecting to jdbc:postgresql://localhost:5432/nix-unit10
+2021-06-02 02:03:55,366 INFO [main] u.c.s.d.ConnectionProvider [ConnectionProvider.java:26] Opened connection to jdbc:postgresql://localhost:5432/nix-unit10
+2021-06-02 02:03:55,376 INFO [main] u.c.s.d.i.LocationDao [LocationDao.java:27] Finding all from locations
+2021-06-02 02:03:55,447 INFO [main] u.c.s.d.i.RouteDao [RouteDao.java:27] Finding all from routes
+2021-06-02 02:06:16,622 INFO [main] u.c.s.d.ConnectionProvider [ConnectionProvider.java:23] Connecting to jdbc:postgresql://localhost:5432/nix-unit10
+2021-06-02 02:06:17,162 INFO [main] u.c.s.d.ConnectionProvider [ConnectionProvider.java:26] Opened connection to jdbc:postgresql://localhost:5432/nix-unit10
+2021-06-02 02:06:17,169 INFO [main] u.c.s.d.i.LocationDao [LocationDao.java:27] Finding all from locations
+2021-06-02 02:06:17,191 INFO [main] u.c.s.d.i.RouteDao [RouteDao.java:27] Finding all from routes
+2021-06-02 02:09:07,379 INFO [main] u.c.s.d.ConnectionProvider [ConnectionProvider.java:23] Connecting to jdbc:postgresql://localhost:5432/nix-unit10
+2021-06-02 02:09:07,792 INFO [main] u.c.s.d.ConnectionProvider [ConnectionProvider.java:26] Opened connection to jdbc:postgresql://localhost:5432/nix-unit10
+2021-06-02 02:09:07,801 INFO [main] u.c.s.d.i.LocationDao [LocationDao.java:27] Finding all from locations
+2021-06-02 02:09:07,829 INFO [main] u.c.s.d.i.RouteDao [RouteDao.java:27] Finding all from routes
+2021-06-02 02:12:13,338 INFO [main] u.c.s.d.ConnectionProvider [ConnectionProvider.java:23] Connecting to jdbc:postgresql://localhost:5432/nix-unit10
+2021-06-02 02:12:13,662 INFO [main] u.c.s.d.ConnectionProvider [ConnectionProvider.java:26] Opened connection to jdbc:postgresql://localhost:5432/nix-unit10
+2021-06-02 02:12:13,741 INFO [main] u.c.s.d.i.LocationDao [LocationDao.java:27] Finding all from locations
+2021-06-02 02:12:13,765 INFO [main] u.c.s.d.i.RouteDao [RouteDao.java:27] Finding all from routes
+2021-06-02 02:14:22,396 INFO [main] u.c.s.d.ConnectionProvider [ConnectionProvider.java:23] Connecting to jdbc:postgresql://localhost:5432/nix-unit10
+2021-06-02 02:14:22,787 INFO [main] u.c.s.d.ConnectionProvider [ConnectionProvider.java:26] Opened connection to jdbc:postgresql://localhost:5432/nix-unit10
+2021-06-02 02:14:22,795 INFO [main] u.c.s.d.i.LocationDao [LocationDao.java:27] Finding all from locations
+2021-06-02 02:14:22,824 INFO [main] u.c.s.d.i.RouteDao [RouteDao.java:27] Finding all from routes
+2021-06-02 02:17:54,840 INFO [main] u.c.s.d.ConnectionProvider [ConnectionProvider.java:23] Connecting to jdbc:postgresql://localhost:5432/nix-unit10
+2021-06-02 02:17:55,221 INFO [main] u.c.s.d.ConnectionProvider [ConnectionProvider.java:26] Opened connection to jdbc:postgresql://localhost:5432/nix-unit10
+2021-06-02 02:17:55,230 INFO [main] u.c.s.d.i.LocationDao [LocationDao.java:27] Finding all from locations
+2021-06-02 02:17:55,260 INFO [main] u.c.s.d.i.RouteDao [RouteDao.java:27] Finding all from routes
+2021-06-02 02:17:55,285 INFO [main] u.c.s.d.i.ProblemDao [ProblemDao.java:27] Finding all from problems
+2021-06-02 02:17:55,307 INFO [main] u.c.s.d.i.SolutionDao [SolutionDao.java:41] Finding solution for problem with id = 1
+2021-06-02 02:17:55,326 INFO [main] u.c.s.d.i.SolutionDao [SolutionDao.java:60] Updating solution for problem with id = 1
+2021-06-02 02:17:55,339 INFO [main] u.c.s.d.i.SolutionDao [SolutionDao.java:41] Finding solution for problem with id = 2
+2021-06-02 02:17:55,341 INFO [main] u.c.s.d.i.SolutionDao [SolutionDao.java:60] Updating solution for problem with id = 2
+2021-06-02 02:34:19,063 INFO [main] u.c.s.d.ConnectionProvider [ConnectionProvider.java:23] Connecting to jdbc:postgresql://localhost:5432/nix-unit10
+2021-06-02 02:34:19,459 INFO [main] u.c.s.d.ConnectionProvider [ConnectionProvider.java:26] Opened connection to jdbc:postgresql://localhost:5432/nix-unit10
+2021-06-02 02:34:19,468 INFO [main] u.c.s.d.i.LocationDao [LocationDao.java:27] Finding all from locations
+2021-06-02 02:34:19,501 INFO [main] u.c.s.d.i.RouteDao [RouteDao.java:27] Finding all from routes
+2021-06-02 02:34:19,525 INFO [main] u.c.s.d.i.ProblemDao [ProblemDao.java:27] Finding all from problems
+2021-06-02 02:34:19,546 INFO [main] u.c.s.d.i.SolutionDao [SolutionDao.java:41] Finding solution for problem with id = 1
+2021-06-02 02:34:19,550 INFO [main] u.c.s.d.i.SolutionDao [SolutionDao.java:73] Saving solution for problem with id = 1
+2021-06-02 02:34:19,565 INFO [main] u.c.s.d.i.SolutionDao [SolutionDao.java:41] Finding solution for problem with id = 2
+2021-06-02 02:34:19,566 INFO [main] u.c.s.d.i.SolutionDao [SolutionDao.java:73] Saving solution for problem with id = 2
+2021-06-02 02:35:20,244 INFO [main] u.c.s.d.ConnectionProvider [ConnectionProvider.java:23] Connecting to jdbc:postgresql://localhost:5432/nix-unit10
+2021-06-02 02:35:20,726 INFO [main] u.c.s.d.ConnectionProvider [ConnectionProvider.java:26] Opened connection to jdbc:postgresql://localhost:5432/nix-unit10
+2021-06-02 02:35:20,815 INFO [main] u.c.s.d.i.LocationDao [LocationDao.java:27] Finding all from locations
+2021-06-02 02:35:20,844 INFO [main] u.c.s.d.i.RouteDao [RouteDao.java:27] Finding all from routes
+2021-06-02 02:35:20,870 INFO [main] u.c.s.d.i.ProblemDao [ProblemDao.java:27] Finding all from problems
+2021-06-02 02:35:20,898 INFO [main] u.c.s.d.i.SolutionDao [SolutionDao.java:41] Finding solution for problem with id = 1
+2021-06-02 02:35:20,903 INFO [main] u.c.s.d.i.SolutionDao [SolutionDao.java:63] Updating solution for problem with id = 1
+2021-06-02 02:35:20,959 INFO [main] u.c.s.d.i.SolutionDao [SolutionDao.java:41] Finding solution for problem with id = 2
+2021-06-02 02:35:20,960 INFO [main] u.c.s.d.i.SolutionDao [SolutionDao.java:63] Updating solution for problem with id = 2
+2021-06-02 02:37:07,859 INFO [main] u.c.s.d.ConnectionProvider [ConnectionProvider.java:23] Connecting to jdbc:postgresql://localhost:5432/nix-unit10
+2021-06-02 02:37:08,265 INFO [main] u.c.s.d.ConnectionProvider [ConnectionProvider.java:26] Opened connection to jdbc:postgresql://localhost:5432/nix-unit10
+2021-06-02 02:37:08,281 INFO [main] u.c.s.d.i.LocationDao [LocationDao.java:27] Finding all from locations
+2021-06-02 02:37:08,316 INFO [main] u.c.s.d.i.RouteDao [RouteDao.java:27] Finding all from routes
+2021-06-02 02:37:08,347 INFO [main] u.c.s.d.i.ProblemDao [ProblemDao.java:27] Finding all from problems
+2021-06-02 02:37:08,373 INFO [main] u.c.s.d.i.SolutionDao [SolutionDao.java:41] Finding solution for problem with id = 1
+2021-06-02 02:37:08,378 INFO [main] u.c.s.d.i.SolutionDao [SolutionDao.java:63] Updating solution for problem with id = 1
+2021-06-02 02:37:08,381 INFO [main] u.c.s.d.i.SolutionDao [SolutionDao.java:41] Finding solution for problem with id = 2
+2021-06-02 02:37:08,382 INFO [main] u.c.s.d.i.SolutionDao [SolutionDao.java:63] Updating solution for problem with id = 2
+2021-06-02 02:38:06,658 INFO [main] u.c.s.d.ConnectionProvider [ConnectionProvider.java:23] Connecting to jdbc:postgresql://localhost:5432/nix-unit10
+2021-06-02 02:38:07,023 INFO [main] u.c.s.d.ConnectionProvider [ConnectionProvider.java:26] Opened connection to jdbc:postgresql://localhost:5432/nix-unit10
+2021-06-02 02:38:07,033 INFO [main] u.c.s.d.i.LocationDao [LocationDao.java:27] Finding all from locations
+2021-06-02 02:38:07,065 INFO [main] u.c.s.d.i.RouteDao [RouteDao.java:27] Finding all from routes
+2021-06-02 02:38:07,087 INFO [main] u.c.s.d.i.ProblemDao [ProblemDao.java:27] Finding all from problems
+2021-06-02 02:38:07,109 INFO [main] u.c.s.d.i.SolutionDao [SolutionDao.java:41] Finding solution for problem with id = 1
+2021-06-02 02:38:07,113 INFO [main] u.c.s.d.i.SolutionDao [SolutionDao.java:63] Updating solution for problem with id = 1
+2021-06-02 02:38:07,116 INFO [main] u.c.s.d.i.SolutionDao [SolutionDao.java:41] Finding solution for problem with id = 2
+2021-06-02 02:38:07,117 INFO [main] u.c.s.d.i.SolutionDao [SolutionDao.java:63] Updating solution for problem with id = 2
