@@ -27,7 +27,7 @@ create table if not exists solutions
 (
     problem_id   integer  not null constraint "solution_pkey" primary key,
     "cost"   integer,
-    constraint "problem_id_fkey" foreign key (problem_id) references problems (id),
+    constraint "problem_id_fkey" foreign key (problem_id) references problems (id)
 
 );
 
