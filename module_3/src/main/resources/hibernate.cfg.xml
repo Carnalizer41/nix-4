@@ -5,8 +5,20 @@
 
 <hibernate-configuration>
     <session-factory>
-        <mapping class="com.alevel.rmanager.data.model.entity.ManagedResource"/>
-        <mapping class="com.alevel.rmanager.data.model.entity.AllocationRequest"/>
-        <mapping class="com.alevel.rmanager.data.model.entity.AllocationResult"/>
+        <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
+        <property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/module-3</property>
+        <property name="hibernate.connection.username">postgres</property>
+        <property name="hibernate.connection.password">2132</property>
+        <property name="hibernate.current_session_context_class">thread</property>
+        <property name="hibernate.show_sql">false</property>
+        <property name="hibernate.connection.CharSet">utf8</property>
+        <property name="hibernate.connection.characterEncoding">utf8</property>
+        <property name="hibernate.connection.useUnicode">true</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQL5Dialect</property>
+        <mapping class="ua.com.shyrkov.entity.AccountEntity"/>
+        <mapping class="ua.com.shyrkov.entity.CategoryEntity"/>
+        <mapping class="ua.com.shyrkov.entity.CategoryTypeEntity"/>
+        <mapping class="ua.com.shyrkov.entity.TransactionEntity"/>
+        <mapping class="ua.com.shyrkov.entity.UserEntity"/>
     </session-factory>
 </hibernate-configuration>
