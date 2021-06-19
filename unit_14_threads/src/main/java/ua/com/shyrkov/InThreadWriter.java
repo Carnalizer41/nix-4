@@ -3,9 +3,8 @@ package ua.com.shyrkov;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.io.BufferedWriter;
-import java.io.FileWriter;
 import java.io.IOException;
+import java.io.RandomAccessFile;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 public class InThreadWriter implements Runnable {
@@ -26,31 +25,33 @@ public class InThreadWriter implements Runnable {
     @Override
     public void run() {
         logger.info("Starting new writer thread...");
-        while (running.get()) {
-            try {
-                Thread.sleep(1000);
-            } catch (InterruptedException e) {
-                logger.error("Writer thread was interrupted :(");
-            }
-            if (!currentValue.toString().equals(oldValue.toString())) {
-                try (BufferedWriter writer = new BufferedWriter(new FileWriter(filepath, false))) {
+        try (RandomAccessFile writer = new RandomAccessFile(filepath, "rw")) {
+            while (running.get()) {
+                try {
+                    Thread.sleep(1000);
+                } catch (InterruptedException e) {
+                    logger.error("Writer thread was interrupted :(");
+                }
+                if (!currentValue.toString().equals(oldValue.toString())) {
                     logger.info("Saving new data...");
-                    writer.write(currentValue.toString());
-                    writer.flush();
+                    writer.seek(0);
+                    writer.writeBytes(currentValue.toString());
+
                     oldValue.delete(0, oldValue.length());
                     oldValue.append(currentValue);
-                } catch (IOException e) {
-                    e.printStackTrace();
                 }
             }
+        } catch (IOException e) {
+            e.printStackTrace();
         }
+
     }
 
     public void appendData(String data) {
         currentValue.append(data);
     }
 
-    public void stop(){
+    public void stop() {
         logger.info("Stopping writer thread...");
         running.set(false);
     }
